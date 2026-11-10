@@ -80,6 +80,7 @@ Purchase 'Avatars' for your profile with the 'LudoCoins' you have earned when pl
 
 - Frontend: Vue.js (Options API)
 - Backend: Spring Boot
+- Database: MySQL
 
 ## License
 
